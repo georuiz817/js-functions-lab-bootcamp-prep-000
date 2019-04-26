@@ -1,5 +1,5 @@
 // write your code below!
-function happyHolidays {
+function happyHolidays(Happy holidays!) {
   console.log("Happy holidays!")
 }
 
